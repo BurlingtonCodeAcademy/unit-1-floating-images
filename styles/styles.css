@@ -1,1 +1,19 @@
-/* Your code goes here */
+header {
+  text-align: center;
+  font-size: 32px;
+}
+
+.left {
+  float: left;
+  margin-right: 10px;
+}
+
+.right {
+  float: right;
+  margin-left: 10px;
+}
+
+section {
+  margin: 20px;
+  font-size: 20px;
+}
