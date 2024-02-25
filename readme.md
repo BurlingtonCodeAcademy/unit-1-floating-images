@@ -41,7 +41,7 @@ Your work will result in:
 ## Styling the divs
 
 - [ ] You will need to again utilize CSS properties and CSS selectors in order to style this website.
-- [ ] You will also need to utilize the CSS float property in order to acheive the text wrapping around the image.
+- [ ] You will also need to utilize the CSS float property in order to achieve the text wrapping around the image.
 - [ ] As a reminder, here are a few options for placeholder images: [Lorem Flickr](https://loremflickr.com/), [Placekitten](https://placekitten.com/). [Lorem Picsum](https://picsum.photos/)
 
 # Review
